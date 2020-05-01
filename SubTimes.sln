@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTimes", "SubTimes\SubTimes.csproj", "{D6405236-F6A4-4DD8-984C-EF1CE9F1F6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTimes2", "SubTimes2\SubTimes2.csproj", "{498459CD-107C-40CD-97BA-68CD8136D477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6405236-F6A4-4DD8-984C-EF1CE9F1F6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6405236-F6A4-4DD8-984C-EF1CE9F1F6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6405236-F6A4-4DD8-984C-EF1CE9F1F6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6405236-F6A4-4DD8-984C-EF1CE9F1F6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498459CD-107C-40CD-97BA-68CD8136D477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498459CD-107C-40CD-97BA-68CD8136D477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498459CD-107C-40CD-97BA-68CD8136D477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498459CD-107C-40CD-97BA-68CD8136D477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C555F1-2F4C-474B-97C1-C8D473CD88BC}
+	EndGlobalSection
+EndGlobal
